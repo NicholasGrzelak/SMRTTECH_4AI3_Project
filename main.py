@@ -29,3 +29,5 @@ plt.show()
 #Normalize Data
 train_images = x_train / 255.0
 test_images = x_test / 255.0
+
+#thomas github test
